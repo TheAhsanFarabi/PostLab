@@ -1,4 +1,4 @@
-import '@/styles/globals.css'
+import '../styles/globals.css'
 
 // This is the main entry point for your Next.js app.
 // It wraps all your pages, so it's the perfect place
